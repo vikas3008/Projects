@@ -1,0 +1,148 @@
+body{
+	font-family: 'Encode Sans Condensed', sans-serif;
+}
+.navbar-brand{
+	font-size:28px;
+	font-weight:900;
+	
+}
+.heading-box{
+	padding-top:20px;
+	background-color:#23732399;
+}
+.cleaning-text{
+	font-size:23px;
+	color:white;
+}
+.heading-p1{
+	background-color:white;
+	padding-top:20px;
+	padding-left:20px;
+	
+}
+.heading-p2{
+	background-color:white;
+	padding-top:20px;
+}
+label{
+	font-weight:bold;
+}
+.select-1, .select-2, .select-3, .select-4, .select-5, .add{
+	border-radius: 0px !important;
+	
+}
+.btn-primary {
+    
+    background-color: transparent!important;
+	border:none!important;
+}
+.line{
+	width: 550px;
+    height: 20px;
+    border-bottom: 1px solid white;
+   
+}
+.line2{
+    height: 20px;
+    border-bottom: 1px solid grey;
+}
+.heading_icons{
+	color:white;	
+	float:right;
+}
+.fas{
+	padding:10px;
+}
+.dark-button{
+	background-color:#212335de;
+	font-size:20px;
+	font-weight:bold;
+}
+.book{
+	color:white;
+	text-decoration:none!important;
+}
+.yellow-text{
+	color:#f7cf00;
+}
+.compare-text, .people-text{
+	font-size:20px;
+	
+}
+.compare-box, .people-box{
+	background-color:#e2d0d061;
+}
+.yellow-btn{
+	border:0!important;
+	background-color: ##f9c31fe6!important;
+	padding: 0.375rem 6.05rem!important;
+    font-size: 1rem!important;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+}
+.review{
+	background-color:white;
+	padding:20px;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+}
+.checked {
+    color: orange;
+}
+.carousel-control-next {
+    right: -25px!important;
+}
+.carousel-control-prev{
+	left:-25px!important;
+}
+.d-block{
+	align:center;
+}
+.about-row{
+	background-color:white;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+	padding:10px;
+	border-radius:0.35rem;
+	margin-bottom:30px;
+}
+.main-footer {
+    background: #000000d9;
+    color: #fff;
+    padding: 40px 0 35px;
+    font-size: 13px;
+    font-size: 0.89rem;
+    font-weight: 300;
+    z-index: 2;
+    position: relative;
+}
+.collapsible-menu ul{
+	list-style-type:none;
+	text-decoration:none;
+}
+.collapsible-menu h4{
+	color:yellow;
+	padding-left:30px;
+	font-size:30px;
+}
+
+.collapsible-menu a{
+	color:white;
+	text-decoration:none;
+.btn-link {
+    color:black!important;
+}
+.apply-btn{
+	color:black;
+	font-weight:bold;
+	margin-top:32px;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+}
+.dateandtime{
+	font-size:10px;
+	
+}
+.footerLinkBox h2{
+	
+		color:#fedf4a;
+		font-size:16px;
+		margin:0 0 15px;
+		font-weight:400;
+}
